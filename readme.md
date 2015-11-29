@@ -1,4 +1,4 @@
-# Easy Flash Messages
+# Easy Flash Messages (for SweetAlert)
 
 ## Installation
 
